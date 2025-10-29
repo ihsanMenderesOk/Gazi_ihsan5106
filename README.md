@@ -1,2 +1,2 @@
 # Gazi_ihsan5106
-Gazi_ihsan
+Açık Kaynak ve Yazılım Geliştirme
